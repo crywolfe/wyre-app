@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from 'react'
-import axios from 'axios'
+import React, { useEffect, useState } from 'react';
+import axios from 'axios';
 import { InvoiceList } from './invoice-list';
-import './../styles/invoice.css'
+import './../styles/invoice.css';
 
 export const Invoice = () => {
   // Prepare states
