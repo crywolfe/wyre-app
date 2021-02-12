@@ -8,6 +8,9 @@ Invoice App using SQLite, Node, React
 
 I thought about doing this in Ruby on Rails but I felt the technologies I chose are more closely related to the technologies being used at Wyre. However, I could have used RoR for similar reasons.
 
+## STILL IN ACTIVE DEVELOPMENT
+use `npm run dev` to spin up a local instance after pulling it down.
+
 ## TASKS:
 1. Add Wyre API service call.
 2. Create User object.
@@ -16,6 +19,4 @@ I thought about doing this in Ruby on Rails but I felt the technologies I chose 
 5. Review Requirements doc.
 6. Use next.js to deploy
 7. Provide instructions for App use in README.
-
-
 
